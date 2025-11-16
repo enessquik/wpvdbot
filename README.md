@@ -5,6 +5,7 @@ This is a WhatsApp bot that downloads videos from popular social media links (e.
 
 ## Features
 
+- **[NEW] Private Chats**: Finally, it works on both groups and private chats. Theres no limit!
 - **Video Downloading**: Automatically detects and downloads videos from various platforms
 - **Sticker Creation**: Creates stickers from pictures (usage: reply to a picture with `/q`) and quoted text messages (usage: reply to a text with `/qm`)
 - **Blacklist Management**: Block users or groups from using the bot (`/blacklist`, `/unblacklist`)
